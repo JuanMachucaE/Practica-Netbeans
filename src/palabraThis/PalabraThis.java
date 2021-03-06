@@ -1,5 +1,5 @@
 
-package palabrathis;
+package palabraThis;
 
 /**
  *
@@ -32,9 +32,9 @@ public class PalabraThis {
             System.out.println("numero NO encontrado");
         }
         System.out.println("");
-=======
-        System.out.println("apellido es: "+p.apellido);
-        */
+
+        //System.out.println("apellido es: "+p.apellido);
+       
                 
         int [][] matriz1, matriz2, matriz3;
 
@@ -71,7 +71,7 @@ public class PalabraThis {
         }
         
         
->>>>>>> RamaMatriz
+
     }
     
     static boolean encontrarNumero(int array[], int n){
@@ -88,7 +88,7 @@ public class PalabraThis {
         
         return encontrar;
     }
-   / /hola
+   //hola
     
 }
 
